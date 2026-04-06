@@ -1,0 +1,10 @@
+scikit-learn
+scikit-surprise
+torch
+torchvision
+torchaudio
+pandas
+matplotlib
+seaborn
+numpy<2
+nbformat
