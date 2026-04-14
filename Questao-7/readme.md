@@ -1,4 +1,4 @@
-# Análise de Market Basket - Questão 7
+# Recomendação de Produtos em um Supermercado - Questão 7
 
 ![GitHub language count](https://img.shields.io/github/languages/count/joaobrittodev/projeto-integrador?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/joaobrittodev/projeto-integrador?style=for-the-badge)

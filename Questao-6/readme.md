@@ -1,4 +1,4 @@
-# Regressão sobre California Housing - Questão 6
+# Previsão do Valor de Imóveis - Questão 6
 
 ![GitHub language count](https://img.shields.io/github/languages/count/joaobrittodev/projeto-integrador?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/joaobrittodev/projeto-integrador?style=for-the-badge)

@@ -1,4 +1,4 @@
-# Sistema de Recomendação de Filmes
+# Recomendação de Filmes com Filtragem Colaborativa
 ![GitHub language count](https://img.shields.io/github/languages/count/joaobrittodev/projeto-integrador?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/joaobrittodev/projeto-integrador?style=for-the-badge)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](https://opensource.org/license/mit)
