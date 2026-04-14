@@ -28,7 +28,7 @@ pip install scikit-learn pandas numpy xgboost
 
 ## Como usar
 
-1. Abra `Q6-California-Housing.ipynb` ou o notebook presente em `Questao-6/` no Jupyter Notebook ou VS Code.
+1. Abra o notebook presente em `Questao-6/` no Jupyter Notebook ou VS Code.
 2. Execute as células para reproduzir pré-processamento, treinamento e avaliação.
 
 ## Resultados esperados
