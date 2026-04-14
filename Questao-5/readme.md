@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# Predição de Doença Cardíaca (Heart Disease) - Questão 5
+# Diagnóstico de Doenças Cardíacas - Questão 5
 
 ![GitHub language count](https://img.shields.io/github/languages/count/joaobrittodev/projeto-integrador?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/joaobrittodev/projeto-integrador?style=for-the-badge)
