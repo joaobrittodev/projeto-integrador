@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Predição de Doença Cardíaca (Heart Disease) - Questão 5
 
 ![GitHub language count](https://img.shields.io/github/languages/count/joaobrittodev/projeto-integrador?style=for-the-badge)
@@ -52,3 +53,6 @@ Observações úteis presentes no notebook:
 Projeto sob licença MIT.
 
 Co-authored-by: Copilot <223556219+Copilot@users.noreply.github.com>
+=======
+# Questao 5
+>>>>>>> dce495e074a17018214efc02c0b6d669d47914d8
